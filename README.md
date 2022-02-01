@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bartlomiejwojcik55
 - 👀 I’m interested in DATA.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m not looking to collaboration, I need to do self study :)
 - 📫 How to reach me -> stay calm, I will find YOU!
 
